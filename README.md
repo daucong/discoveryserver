@@ -1,0 +1,2 @@
+# discoveryserver
+Eureka server
